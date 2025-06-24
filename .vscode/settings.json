@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "types.h": "c",
+        "types_errorcode.h": "c",
+        "startup.h": "c",
+        "project.h": "c",
+        "drivers_gpio.h": "c",
+        "hal_gpio.h": "c",
+        "reg_sio_gpio.h": "c",
+        "reg_pads_bank0.h": "c",
+        "reg_gpio_bank0.h": "c",
+        "platform_def.h": "c",
+        "reg_map.h": "c",
+        "boot_stage2.h": "c",
+        "reg_ssi.h": "c",
+        "reg_m0plus.h": "c",
+        "reg_pads_qspi.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}

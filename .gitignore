@@ -1,0 +1,21 @@
+# Ignore build directory
+build/
+
+# Optional: Ignore CMake-related files (can be useful)
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Optional: Ignore generated executables and object files
+*.o
+*.obj
+*.exe
+*.out
+*.a
+*.so
+*.dll
+*.hex
+*.map
+*.uf2
+*.bin
