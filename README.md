@@ -1,4 +1,6 @@
 # Core Crafter — Bare Metal Microcontroller Development
+> ⚠️ **Project Status: Work in Progress**
+> This repository is currently under development and is not yet ready for use. Features may be incomplete or unstable.
 
 Welcome to **Core Crafter**, a collection of bare-metal development stacks for different microcontrollers. This repository contains complete register-level drivers, HAL layers, build system, and sample applications — all written from scratch without relying on any vendor SDK.
 
